@@ -1,0 +1,14 @@
+{
+    "interacao": {
+        "inicio": "Entre no portal assim que estiver pronta.",
+        "orfanato": "Encontrou alguma coisa sobre onde possa estar o ruan?"
+    },
+
+    "inicio": [["Salve Eery, preciso de uma ajuda sua.", "O ruan parece ter enlouquecido e está viajando através do tempo do nosso servidor.",
+     "Eu não sei motivo dele ter começado a fazer isso, mas se ele continuar assim, ele pode fazer alguma loucura."],
+     ["Sim. E eu preciso da sua ajuda para parar ele.", "Você topa?"], ["Ótimo. Eu preciso que você ajude os membros do servidor através do tempo.",
+     "Passando primeiro pelo 'orfanato', que era o servidor antes de se tornar o que conhecemos como União Sinistra.", "Tente coletar o máximo de pistas sobre onde o ruan pode estar para que possamos parar ele.",
+     "Eu criarei um portal para chegar lá, então pegue suas coisas e se prepare."]],
+
+    "orfanato": []
+}
